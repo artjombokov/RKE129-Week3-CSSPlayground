@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Righteous&display=swap');
+
+body {
+    background-color: rgba(248, 131, 35, 0.715);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Righteous', cursive;
+    font-size: 5rem;
+}
+
+.main {
+border: 3px solid rgba(1, 1, 1, 0.689);
+width: 55%;
+margin: 0 auto;
+}
+
+.main div {
+height: 200px;
+width: 200px;
+border: 1px solid black;
+border-radius: 50%;
+margin: 2rem auto;
+}
+#red {
+border-color: red;
+}
+#yellow {
+border-color: yellow;
+}
+#green {
+    border-color: green;
+}
+
+.footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Oswald', cursive;
+    font-size: 2rem;
+}
+
